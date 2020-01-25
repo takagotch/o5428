@@ -1,6 +1,6 @@
-### o
+### teratail
 ---
-
+https://teratail.com/
 
 ```
 ```
